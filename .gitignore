@@ -1,0 +1,5 @@
+# OSX
+.DS_Store
+
+# Notebook Stuff
+.ipynb_checkpoints/
