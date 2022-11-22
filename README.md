@@ -10,3 +10,5 @@ __**Group Members:**__
 * Daniel Huang
 * Matthew Koen
 * Curtis Wong
+
+[Final Project Guidelines](https://data102.org/fa22/assets/project/project_guidelines.pdf)
